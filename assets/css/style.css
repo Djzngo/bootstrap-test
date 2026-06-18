@@ -1,12 +1,6 @@
-.col {
-    background-color: gray;
+.container > div {
     outline: 1px solid black;
 }
-.col-9 {
-    background-color: gray;
-    outline: 1px solid black;
-}
-.col-3 {
-    background-color: gray;
+.row > div {
     outline: 1px solid black;
 }
